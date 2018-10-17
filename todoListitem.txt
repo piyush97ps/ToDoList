@@ -1,0 +1,10 @@
+Red Bugatti	Buy a Bugatti , Red Color	01 30,2020
+Gaming Laptop	Buy a gaming laptop	01 30,2020
+Mac Book Pro	Buy a mac book pro	01 30,2020
+Master	Gaming Master	10 4,2018
+PUBG King	buy elite pass in PUBG	10 4,2018
+Gaming Laptop	Buy a Gaming Laptop	10 6,2018
+ISS	International Space Station	10 5,2018
+Seek A job	Seek a job of package 10 lak per annum	12 20,2018
+Buy A Mobile	Google Pixel Or OnePlus 7	06 30,2019
+Gaming Destop	Build a Gaming PC	10 4,2018
